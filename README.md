@@ -1,2 +1,2 @@
 # Crypthon
-Crypthon is written in python language to encrypt or decrypt hashes
+Crypthon is written in python language to encrypt hashes
