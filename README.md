@@ -1,6 +1,6 @@
-Crypthon
+#Crypthon\
 
-**Crypthon is used for encryption or decryption of files.******
+**Crypthon is used for encryption or decryption of files.**
 
 How to use: \
  To getting started type: \
