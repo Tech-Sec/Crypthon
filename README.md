@@ -29,5 +29,5 @@ fro decryption run: \
 
 \
  The file wil get decrypted. \
- If any problems persists, just pull up an issue or DM me on <a src="https://www.instagram.com/_imad._.1/">Instagram</a>.
+ If any problems persists, just pull up an issue or DM me on <a src="https://www.instagram.com/_imad._.1/">Instagram</a>.\
 
