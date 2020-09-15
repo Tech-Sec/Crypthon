@@ -17,21 +17,29 @@ try:
     print('''
         [1]Generate the keys    [2]Encrypt a file   [3]Decryption
     ''')
-    command = input('crypthon>')
-    # generating key
-    if command == '1':
-        write_key()
-    # encryption
-    elif command == '2':
-        encrypt_file()
-    # decryption
-    elif command == '3':
-        decrypt_file()
-    else:
-        print('Choose correct option!!')
+    while True:
+        command = input('crypthon>')
+        # generating key
+        if command == '1':
+            write_key()
+            print('Want to encrypt a file?(y/n)')
+            command_1 = input('crypthon>')
+            if command_1 =='y':
+                encrypt_file()
+            elif command_1 == 'n':
+                break
+        # encryption
+        elif command == '2':
+            encrypt_file()
+        # decryption
+        elif command == '3':
+            decrypt_file()
+        else:
+            print('Choose correct option!!')
+        break
 except FileNotFoundError:
     print('''
-Enter the correct file name!!!
+File not found
     ''')
 except KeyboardInterrupt:
     print('''
