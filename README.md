@@ -29,5 +29,5 @@ fro decryption run: \
 
 \
  The file wil get decrypted. \
- If any problems persists, just pull up a request.
+ If any problems persists, just pull up an issue.
 
