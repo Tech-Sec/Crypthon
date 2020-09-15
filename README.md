@@ -2,7 +2,7 @@
 
 How to use: \
  To getting started type: \
- **pip install -r requirements.txt**
+ **pip install -r requirements.txt** \
  **python crypthon.py**
 
 **Encryption**
