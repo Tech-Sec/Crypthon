@@ -1,5 +1,3 @@
-#Crypthon\
-
 **Crypthon is used for encryption or decryption of files.**
 
 How to use: \
