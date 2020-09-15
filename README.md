@@ -21,10 +21,10 @@ encrypted \
 
 **Decryption**
 
-fro decryption run: \
+for decryption run: \
 **python crypthon.py** \
  and choose option '3' \
- Enter your filename \
+ Then enter your filename \
  ![](img_3.JPG)
 
 \
