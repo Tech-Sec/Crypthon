@@ -6,6 +6,8 @@ How to use: \
  To getting started type: \
  **python crypthon.py**
 
+**Encryption**
+
 First we have to generate our *key* \
  Choose option '1': \
  ![](img_1.JPG)
@@ -19,9 +21,10 @@ encrypted \
 \
  The file will get encrypted
 
-Decryption
+**Decryption**
 
-fro decryption run: **python crypthon.py** \
+fro decryption run: \
+**python crypthon.py** \
  and choose option '3' \
  Enter your filename \
  ![](img_3.JPG)
