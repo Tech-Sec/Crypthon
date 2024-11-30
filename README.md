@@ -30,5 +30,5 @@ for decryption run: \
 
 \
  The file wil get decrypted. \
- If any problems persists, just pull up an issue or DM me on [Instagram](https://www.instagram.com/_imad._.1/). 
+ If any problems persists, just pull up an issue or DM me on [Instagram](https://www.instagram.com/0ximad/). 
 
